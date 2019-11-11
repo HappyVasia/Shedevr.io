@@ -1,0 +1,26 @@
+body{
+	background-color:crimson;
+}
+.header{
+	font-family:sans-serif;
+	font-size: 80px;
+	font-weight:bolder;
+	font-stretch:expanded;
+	color:gold;
+	text-align:center;
+	height:50px;
+	border:none;
+	background-color:crimson;
+}
+div{
+	box-sizing:content-box;
+	padding:25px;
+	margin:15px;
+	height: 400px;
+	border: 2px solid black;
+	font-family:sans-serif;
+	line-height:30px;
+	font-size: 18px;
+	background-color:coral;
+	text-align:justify;	
+}
