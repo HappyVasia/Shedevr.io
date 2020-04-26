@@ -1,7 +1,7 @@
 body{
 	background-color:crimson;
 }
-@media screen and (min-width:350px){
+@media screen and (min-width:780px){
 .header{
 	font-family:sans-serif;
 	font-size: 40px;
@@ -14,7 +14,7 @@ body{
 	background-color:crimson;
 }
 }
-@media screen and (min-width:350px){
+@media screen and (min-width:780px){
 div{
 	box-sizing:content-box;
 	padding:25px;
@@ -28,7 +28,7 @@ div{
 	text-align:justify;	
 }
 }
-<!-- @media screen and (min-width:350px){
+<!-- @media screen and (min-width:780px){
 	img{
 		max-width:80%; max-height:80%;
 	}
