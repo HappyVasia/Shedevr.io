@@ -4,12 +4,12 @@ body{
 @media screen and (min-width:350px){
 .header{
 	font-family:sans-serif;
-	font-size: 35px;
+	font-size: 40px;
 	font-weight:bolder;
 	font-stretch:expanded;
 	color:gold;
 	text-align:center;
-	height:20px;
+	height:30px;
 	border:none;
 	background-color:crimson;
 }
@@ -23,13 +23,13 @@ div{
 	border: 2px solid black;
 	font-family:sans-serif;
 	line-height:15px;
-	font-size: 8px;
+	font-size: 20px;
 	background-color:coral;
 	text-align:justify;	
 }
 }
 @media screen and (min-width:350px){
 	img{
-		width:80%; height:50px;
+		max-width:80%; max-height:80%;
 	}
 }
