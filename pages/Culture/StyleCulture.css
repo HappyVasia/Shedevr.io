@@ -29,7 +29,7 @@ body{
 	
 }
 
-media screen and (min-width:600px){
+@media screen and (min-width:600px){
 .block{
 	background-color:DodgerBlue;
 	float:left;
@@ -67,7 +67,7 @@ h2{
 	background-color:DodgerBlue;
 		
 }
-media screen and (min-width:600px){
+@media screen and (min-width:600px){
 a:hover{
 	background:red;
 	color:white;
