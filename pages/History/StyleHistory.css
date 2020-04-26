@@ -1,7 +1,7 @@
 body {
 background-color:purple;
 }
-
+@media screen and (min-width:400px){
 div{
 	background-color: peru;
 	margin: 15px;
@@ -14,7 +14,8 @@ div{
 	font-size:18px;
 	text-align:justify;
 }
-
+}
+@media screen and (min-width:400px){
 .header{
 	padding:25px;
 	margin:0px;
@@ -27,4 +28,4 @@ div{
 	background-color:purple;
 	border: 2px solid yellow;
 }
- 
+}
