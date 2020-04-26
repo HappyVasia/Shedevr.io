@@ -29,7 +29,7 @@ body{
 	
 }
 
-
+media screen and (min-width:600px){
 .block{
 	background-color:DodgerBlue;
 	float:left;
@@ -39,7 +39,7 @@ body{
 	max-width:215px;
 	padding-bottom:45px;
 }
-
+	}
 
 h2{
 	text-align:center;
@@ -67,11 +67,11 @@ h2{
 	background-color:DodgerBlue;
 		
 }
-
+media screen and (min-width:600px){
 a:hover{
 	background:red;
 	color:white;
 }
-
+	}
 }
 
