@@ -1,6 +1,7 @@
 body{
 	background-color:crimson;
 }
+@media screen and (min-width:400px){
 .header{
 	font-family:sans-serif;
 	font-size: 80px;
@@ -12,6 +13,8 @@ body{
 	border:none;
 	background-color:crimson;
 }
+}
+@media screen and (min-width:400px){
 div{
 	box-sizing:content-box;
 	padding:25px;
@@ -23,4 +26,5 @@ div{
 	font-size: 18px;
 	background-color:coral;
 	text-align:justify;	
+}
 }
