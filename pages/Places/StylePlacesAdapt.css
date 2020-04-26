@@ -28,8 +28,9 @@ div{
 	text-align:justify;	
 }
 }
-@media screen and (min-width:350px){
+<!-- @media screen and (min-width:350px){
 	img{
 		max-width:80%; max-height:80%;
 	}
 }
+-->
